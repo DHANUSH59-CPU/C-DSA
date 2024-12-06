@@ -6,7 +6,7 @@ int main(){
     int m;
     cout<<"Enter the number of rows :";
     cin>>m;
-     int n;
+    int n;
     cout<<"Enter the number of counms :";
     cin>>n;
     int arr[m][n];

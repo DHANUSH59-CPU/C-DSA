@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-                // only of n x n matrix
+// only of n x n matrix
 int main(){  
     int n;
     cout<<"Enter the number of rows/colums :";
